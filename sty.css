@@ -1,0 +1,9 @@
+:local(.Heading){
+    background:black;
+    color: white;
+    text-align: center;
+    font-size: 25px; 
+    padding: 7px;
+    margin-bottom: 15px;
+
+}
